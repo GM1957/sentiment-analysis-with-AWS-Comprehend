@@ -4,7 +4,7 @@ frameworkVersion: '2'
 provider:
   name: aws
   runtime: nodejs12.x
-  profile: serverlessUser
+  profile: serverlessUser #change based on your profile
   stage: dev
   region: eu-west-1
   iamRoleStatements:

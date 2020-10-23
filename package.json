@@ -1,0 +1,11 @@
+{
+  "name": "email-analyser",
+  "version": "1.0.0",
+  "description": "Sentiment Analysis Tool",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grandmaster",
+  "license": "ISC"
+}
